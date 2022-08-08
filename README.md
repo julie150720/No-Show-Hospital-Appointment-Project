@@ -10,4 +10,9 @@ In this project, we will investigate the No-show appointments dataset, and predi
 
    The fourth factor might impact the no-show appointment is whether they are new patient or existing patient. Marbouh et al3 mentioned in their research that the no-show appointment rate is higher among new patient visits. 
 
+Feature Selection:
+Lasso Regression
+![image](https://user-images.githubusercontent.com/68930546/183460198-93c023e2-ae7e-4c82-9ea3-2554cded4bc4.png)
+
+Recursive Feature Elimination
 ![image](https://user-images.githubusercontent.com/68930546/183460115-40743eba-4ca8-4b8c-9f78-bedb6d98da1e.png)
