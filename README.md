@@ -7,7 +7,7 @@ Feature Selection:
 Lasso Regression
 ![image](https://user-images.githubusercontent.com/68930546/183460198-93c023e2-ae7e-4c82-9ea3-2554cded4bc4.png)
 
-Recursive Feature Elimination
+Feature Selection: Recursive Feature Elimination
 
 ![image](https://user-images.githubusercontent.com/68930546/183460115-40743eba-4ca8-4b8c-9f78-bedb6d98da1e.png)
 
