@@ -9,3 +9,5 @@ In this project, we will investigate the No-show appointments dataset, and predi
    The third impactful factor is the age of the patient. When the patient is older, he/she is less likely to miss the hospital appointment, as their health are associated with more risks. Parsons et all also concluded in their research that patients less than 21 years old are more likely to miss the appointment2. Therefore, it is hypothesized that the age of the patient is negatively associated with the missing appointments.
 
    The fourth factor might impact the no-show appointment is whether they are new patient or existing patient. Marbouh et al3 mentioned in their research that the no-show appointment rate is higher among new patient visits. 
+
+![image](https://user-images.githubusercontent.com/68930546/183460115-40743eba-4ca8-4b8c-9f78-bedb6d98da1e.png)
